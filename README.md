@@ -1,5 +1,7 @@
 # Jupyter Notebook Demonstrations
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wesleybeckner/magenta-demos.git/master)
+
 This directory contains [Jupyter](https://jupyter.org)
 notebook demos of some Magenta models. Jupyter should have already been installed
 as part of Magenta. If not, see the Jupyter
